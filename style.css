@@ -1,0 +1,28 @@
+h1.red-header {
+    color: red;
+}
+
+p {
+    font-size: 30px;
+}
+
+li.lista-nauki {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+img.main-photo {
+    width: 400px;
+    border-radius: 20px;
+}
+
+tr.lang-table-header{
+    background-color: gray;
+}
+
+table.tabelka{
+    table-layout: fixed;
+    background-color: lightgray;
+    width: 600px;
+    border: 2px;
+}
